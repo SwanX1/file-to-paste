@@ -1,0 +1,16 @@
+{
+  "extensionName": {
+    "message": "File to Paste",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "Uploads files to paste.gg",
+    "description": "Description of the add-on."
+  },
+
+  "uploadMenuItem": {
+    "message": "Upload this file to paste.gg",
+    "description": "Label for upload menu item."
+  }
+}
